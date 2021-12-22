@@ -1,0 +1,26 @@
+.container-bg{
+        /* margin-top: 5%;
+        margin-bottom: 5%; */
+        background-color: white;
+}
+.login-form1{
+    /* padding: 5%; */
+    /* box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19); */
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.login-form2{
+    /* padding: 5%; */
+    /* box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19); */
+    text-align: center;
+}
+.form-group input{
+    border-left-width: 7px;
+    border-left-style: solid;
+    border-left-color:#0a7ef5;
+
+    
+}
